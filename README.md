@@ -20,7 +20,10 @@ This two-part project uses Python to retrieve data from the OpenWeatherMap and G
 
 ### Pollution Isn't Minnesota Nice: EPA FRS-Monitored Sites vs. Health Outcomes, Asthma Rates, and Cancer Rates by County
 
-This project is a full-stack web application developed in collaboration with four other people that examines the relationship between the presence and concentration of EPA Facility Registry Service (FRS)-monitored sites in Minnesota and health outcome and health factor scores in each county, as well as asthma and cancer rates by county. My part of the project was to write a Flask API that acquired data from our Mongo database and provided it in JSON and geoJSON format. I also took the lead on ensuring we prepared a robust and informative README file, and assisted with the data cleaning and sourcing.
+This project is a full-stack web application developed in collaboration with four other people that examines the relationship between the presence and concentration of EPA Facility Registry Service (FRS)-monitored sites in Minnesota and health outcome and health factor scores in each county, as well as asthma and cancer rates by county.
+![image](https://github.com/joannadelaune/joannadelaune/assets/102549713/614c8472-53e3-4811-9cd4-a603fea64848)
+
+My part of the project was to write a Flask API that acquired data from our Mongo database and provided it in JSON and geoJSON format. I also took the lead on ensuring we prepared a robust and informative README file, worked with other project members to develop the research project design and methodology, and assisted with data cleaning and sourcing.
 
 * **Tools:** Python, Flask, Pandas, MongoDB, JavaScript, Leaflet, Plotly, Turf
 * **Skills Demonstrated:** API development, research project design, collaborative project management, clear communication of findings
