@@ -23,6 +23,7 @@ This two-part project uses Python to retrieve data from the OpenWeatherMap and G
 This project is a full-stack web application developed in collaboration with four other people that examines the relationship between the presence and concentration of EPA Facility Registry Service (FRS)-monitored sites in Minnesota and health outcome and health factor scores in each county, as well as asthma and cancer rates by county.
 ![image](https://github.com/joannadelaune/joannadelaune/assets/102549713/614c8472-53e3-4811-9cd4-a603fea64848)
 
+#### My Role
 My part of the project was to write a Flask API that acquired data from our Mongo database and provided it in JSON and geoJSON format. I also took the lead on ensuring we prepared a robust and informative README file, worked with other project members to develop the research project design and methodology, and assisted with data cleaning and sourcing.
 
 * **Tools:** Python, Flask, Pandas, MongoDB, JavaScript, Leaflet, Plotly, Turf
@@ -33,13 +34,16 @@ My part of the project was to write a Flask API that acquired data from our Mong
   * [GitHub Pages Website Deployment](https://rolisingh10.github.io/Project-3/) (please note the website may take a few seconds to load depending on your internet connection) 
 
 ### State and Local Fiscal Recovery Funds (SLFRF) Spending vs. Vaccination Rates
-The American Rescue Plan Act of 2021 (ARPA) allocated $350 billion to state and local governments to mitigate the impacts of the COVID-19 public health emergency by funding programs across a broad spectrum of categories. By the end of Q4 2022, some states (and their local governments) had used almost all the money available to them. Other states had neither spent nor obligated the vast majority of the money available for their use.
+The American Rescue Plan Act of 2021 (ARPA) allocated $350 billion to state and local governments to mitigate the impacts of the COVID-19 public health emergency by funding a broad range of programs. By the end of Q4 2022, some states (and their local governments) had used almost all the money available to them. Other states had neither spent nor obligated the vast majority of the money available for their use.
 
-We wondered whether states where this SLFRF money was spent on programs to improve the vaccine uptake for residents would have higher rates of vaccination.
+This project is a data analysis undertaken with four other people to discover whether states where this SLFRF money was spent on programs to improve the vaccine uptake for residents had higher rates of vaccination.
 
 We compared both the **amount of money spent** on vaccine-related projects and the **number of vaccine-related projects** to the vaccination rate in each state, using publicly available vaccination data from the CDC. Data on SLFRF spending was compiled by Dave Kamper of the Economic Policy Institute.
 
 ![Scatter Plot showing Administered Doses of COVID vaccine by population percentage vs. Count of Vaccine Projects Funded with SLFRF Money](https://github.com/joannadelaune/joannadelaune/assets/102549713/49d7b9d4-0135-4b58-8286-4ff16bc57f6d)
+
+#### My Role
+I located the datasets we used and took the lead on designing our research question and methodology, with assistance from Kendal and Greg. I read the documentation for our datasets to find the key datapoints we needed, provided explanations and answered questions for colleagues, and assisted with ETL. I also worked on some data analysis regarding vaccination rates.
 
 * **Tools:** Python, Pandas, MatPlotLib
 * **Skills Demonstrated:** ETL, research project design, data analysis, collaborative project management
