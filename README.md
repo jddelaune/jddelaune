@@ -5,7 +5,7 @@ I was a data-head before being a data-head was cool, and have been working with 
 ## Projects
 * [Getting Out of the USA: A Python API project with MatPlotLib Visualizations](https://github.com/joannadelaune/joannadelaune/edit/main/README.md#getting-out-of-the-usa-a-python-api-project-with-matplotlib-visualizations)
 * [Pollution Isn't Minnesota Nice: EPA FRS-Monitored Sites vs. Health Outcomes, Asthma Rates, and Cancer Rates by County](https://github.com/joannadelaune/joannadelaune/blob/main/README.md#pollution-isnt-minnesota-nice-epa-frs-monitored-sites-vs-health-outcomes-asthma-rates-and-cancer-rates-by-county)
-* State and Local Fiscal Recovery Funds (SLFRF) Spending vs. Vaccination Rates
+* [State and Local Fiscal Recovery Funds (SLFRF) Spending vs. Vaccination Rates](https://github.com/joannadelaune/joannadelaune/blob/main/README.md#state-and-local-fiscal-recovery-funds-slfrf-spending-vs-vaccination-rates)
 
 ### Getting Out of the USA: A Python API project with MatPlotLib Visualizations
 ![Scatter plot showing the latitude of cities in the northern hemisphere vs. Max Temperature in degrees Fahrenheit on 07-17-2023 with a regression line](https://github.com/joannadelaune/joannadelaune/assets/102549713/58603241-490a-4716-8c5e-61375a1a5533)
