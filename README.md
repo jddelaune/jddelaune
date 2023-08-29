@@ -33,7 +33,7 @@ We wondered whether states where this SLFRF money was spent on programs to impro
 
 We compared both the **amount of money spent** on vaccine-related projects and the **number of vaccine-related projects** to the vaccination rate in each state, using publicly available vaccination data from the CDC. Data on SLFRF spending was compiled by Dave Kamper of the Economic Policy Institute.
 
-![Scatter Plot showing Administered Doses of COVID vaccine by population percentage vs. Count of Vaccine Projects Funded with SLFRF Money](https://github.com/joannadelaune/joannadelaune/assets/102549713/cc68dbbd-48ed-4f87-9475-cb7eec51ec36)
+![Scatter Plot showing Administered Doses of COVID vaccine by population percentage vs. Count of Vaccine Projects Funded with SLFRF Money](https://github.com/joannadelaune/joannadelaune/assets/102549713/49d7b9d4-0135-4b58-8286-4ff16bc57f6d)
 
 * **Tools:** Python, Pandas, MatPlotLib
 * **Skills Demonstrated:** 
