@@ -43,7 +43,7 @@ We compared both the **amount of money spent** on vaccine-related projects and t
 ![Scatter Plot showing Administered Doses of COVID vaccine by population percentage vs. Count of Vaccine Projects Funded with SLFRF Money](https://github.com/joannadelaune/joannadelaune/assets/102549713/49d7b9d4-0135-4b58-8286-4ff16bc57f6d)
 
 #### My Role
-I located the datasets we used and took the lead on designing our research question and methodology, with assistance from Kendal and Greg. I read the documentation for our datasets to find the key datapoints we needed, provided explanations and answered questions for colleagues, and assisted with ETL. I also worked on some data analysis regarding vaccination rates.
+I located the datasets we used and took the lead on designing our research question and methodology, with assistance from Kendal and Greg. I read the documentation for our datasets to find the key datapoints we needed, did exploratory data analysis on vaccination rates, provided explanations and answered questions for colleagues about the data, and assisted with ETL.
 
 * **Tools:** Python, Pandas, MatPlotLib
 * **Skills Demonstrated:** ETL, research project design, data analysis, collaborative project management
