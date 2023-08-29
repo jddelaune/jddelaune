@@ -4,7 +4,7 @@ I was a data-head before being a data-head was cool, and have been working with 
 
 ## Projects
 * [Getting Out of the USA: A Python API project with MatPlotLib Visualizations](https://github.com/joannadelaune/joannadelaune/edit/main/README.md#getting-out-of-the-usa-a-python-api-project-with-matplotlib-visualizations)
-* Pollution Isn't Minnesota Nice: EPA FRS-Monitored Sites vs. Health Outcomes, Asthma Rates, and Cancer Rates by County
+* [Pollution Isn't Minnesota Nice: EPA FRS-Monitored Sites vs. Health Outcomes, Asthma Rates, and Cancer Rates by County](https://github.com/joannadelaune/joannadelaune/blob/main/README.md#pollution-isnt-minnesota-nice-epa-frs-monitored-sites-vs-health-outcomes-asthma-rates-and-cancer-rates-by-county)
 * State and Local Fiscal Recovery Funds (SLFRF) Spending vs. Vaccination Rates
 
 ### Getting Out of the USA: A Python API project with MatPlotLib Visualizations
@@ -25,6 +25,22 @@ This two-part project uses Python to retrieve data from the OpenWeatherMap and G
 * **Tools:** 
 * **Skills Demonstrated:** 
 * **Links:**
+
+### State and Local Fiscal Recovery Funds (SLFRF) Spending vs. Vaccination Rates
+The American Rescue Plan Act of 2021 (ARPA) allocated $350 billion to state and local governments to mitigate the impacts of the COVID-19 public health emergency by funding programs across a broad spectrum of categories. By the end of Q4 2022, some states (and their local governments) had used almost all the money available to them. Other states had neither spent nor obligated the vast majority of the money available for their use.
+
+We wondered whether states where this SLFRF money was spent on programs to improve the vaccine uptake for residents would have higher rates of vaccination.
+
+We compared both the **amount of money spent** on vaccine-related projects and the **number of vaccine-related projects** to the vaccination rate in each state, using publicly available vaccination data from the CDC. Data on SLFRF spending was compiled by Dave Kamper of the Economic Policy Institute.
+
+![Scatter Plot showing Administered Doses of COVID vaccine by population percentage vs. Count of Vaccine Projects Funded with SLFRF Money](https://github.com/joannadelaune/joannadelaune/assets/102549713/cc68dbbd-48ed-4f87-9475-cb7eec51ec36)
+
+* **Tools:** Python, Pandas, MatPlotLib
+* **Skills Demonstrated:** 
+* **Links:**
+   * Project Overview
+   * Jupyter Notebook
+   * PowerPoint with Visualizations and Results
 
 <!--
 **joannadelaune/joannadelaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
