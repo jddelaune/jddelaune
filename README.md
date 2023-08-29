@@ -44,7 +44,7 @@ We compared both the **amount of money spent** on vaccine-related projects and t
 * **Tools:** Python, Pandas, MatPlotLib
 * **Skills Demonstrated:** ETL, research project design, data analysis, collaborative project management
 * **Links:**
-   * Project Overview
+   <!-- * Project Overview -->
    * [Code - Jupyter Notebook](https://github.com/joannadelaune/SLFRF-COVID-Vaccinations/blob/main/Project_1_covid_final.ipynb)
    * [PowerPoint with Visualizations and Results](https://github.com/joannadelaune/SLFRF-COVID-Vaccinations/blob/main/Group_7_Presentation.pptx)
 
