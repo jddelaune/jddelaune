@@ -3,12 +3,12 @@
 I was a data-head before being a data-head was cool, and have been working with and thinking about the gathering, storing, analysis, and processing of information for much of my career. For a lot of that time I used only basic tools such as Excel and Access. Now that I have branched out to learn Python, Pandas, SQL, MongoDB, and more, the world (of data, at least) is my chocolate bar, since I can't eat oysters.
 
 ## Projects
-* [Getting Out of the USA: A Python API project with MatPlotLib Visualizations](https://github.com/joannadelaune/joannadelaune/edit/main/README.md#getting-out-of-the-usa-a-python-api-project-with-matplotlib-visualizations)
-* [Pollution Isn't Minnesota Nice: EPA FRS-Monitored Sites vs. Health Outcomes, Asthma Rates, and Cancer Rates by County](https://github.com/joannadelaune/joannadelaune/blob/main/README.md#pollution-isnt-minnesota-nice-epa-frs-monitored-sites-vs-health-outcomes-asthma-rates-and-cancer-rates-by-county)
-* [State and Local Fiscal Recovery Funds (SLFRF) Spending vs. Vaccination Rates](https://github.com/joannadelaune/joannadelaune/blob/main/README.md#state-and-local-fiscal-recovery-funds-slfrf-spending-vs-vaccination-rates)
+* [Getting Out of the USA: A Python API project with MatPlotLib Visualizations](https://github.com/jddelaune/jddelaune/edit/main/README.md#getting-out-of-the-usa-a-python-api-project-with-matplotlib-visualizations)
+* [Pollution Isn't Minnesota Nice: EPA FRS-Monitored Sites vs. Health Outcomes, Asthma Rates, and Cancer Rates by County](https://github.com/jddelaune/jddelaune/blob/main/README.md#pollution-isnt-minnesota-nice-epa-frs-monitored-sites-vs-health-outcomes-asthma-rates-and-cancer-rates-by-county)
+* [State and Local Fiscal Recovery Funds (SLFRF) Spending vs. Vaccination Rates](https://github.com/jddelaune/jddelaune/blob/main/README.md#state-and-local-fiscal-recovery-funds-slfrf-spending-vs-vaccination-rates)
 
 ### Getting Out of the USA: A Python API project with MatPlotLib Visualizations
-![Scatter plot showing the latitude of cities in the northern hemisphere vs. Max Temperature in degrees Fahrenheit on 07-17-2023 with a regression line](https://github.com/joannadelaune/joannadelaune/assets/102549713/58603241-490a-4716-8c5e-61375a1a5533)
+![Scatter plot showing the latitude of cities in the northern hemisphere vs. Max Temperature in degrees Fahrenheit on 07-17-2023 with a regression line](https://github.com/jddelaune/jddelaune/assets/102549713/58603241-490a-4716-8c5e-61375a1a5533)
 
 This two-part project uses Python to retrieve data from the OpenWeatherMap and GeoAPIfy APIs. Part 1 finds weather conditions in randomly selected cities around the world and creates MatPlotLib visualizations.  Part 2 selects vacation destinations based on weather conditions and plots them on a map.
 * **Tools:** Python, Pandas, MatPlotLib
